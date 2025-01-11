@@ -65,28 +65,8 @@ npm start
 
 ## Project Overview
 
-### Landing Page
-![Screenshot 2024-11-28 110950](https://github.com/user-attachments/assets/74808788-7c89-4383-b9e8-3da2ca36e6e6)
-
-### Registration Page 
-![Screenshot 2024-11-28 111040](https://github.com/user-attachments/assets/bce250eb-6b92-4188-90eb-603edc051858)
-
-### Login Page
-![Screenshot 2024-11-28 111101](https://github.com/user-attachments/assets/a3f5f12b-fd9d-4c4f-8356-3dc71a334a9d)
-
-### My Task Page (hold Incomplete Task)
-![Screenshot 2024-11-28 111454](https://github.com/user-attachments/assets/302e7998-d2ff-4cb7-b8ba-638f8ba2ac4c)
-
-### My Task Page (hold Completed Task)
-![Screenshot 2024-11-28 111955](https://github.com/user-attachments/assets/0340183d-ee4a-49b2-8f6d-68a3b3e403b3)
-
-### Add New Task Model
-![Screenshot 2024-11-28 111647](https://github.com/user-attachments/assets/5d6fa6c1-94ec-4e62-a824-73680fdfd08a)
-
-### Updates the already available Task Model
-![Screenshot 2024-11-28 112008](https://github.com/user-attachments/assets/923440aa-633a-4b93-af9b-777fc30dde42)
-
-### Used Search Bar to search related tasks or particular task
-![Screenshot 2024-11-28 112052](https://github.com/user-attachments/assets/abc768ca-35b3-4d85-bef2-bc2e46ce03f2)
+![Screenshot (1763)](https://github.com/user-attachments/assets/1170d61b-91c3-4f92-8bc2-66ff920a2df8)
+![Screenshot (1762)](https://github.com/user-attachments/assets/6f310db1-7df8-4911-b2c6-ca7e5bea8637)
+![Screenshot (1761)](https://github.com/user-attachments/assets/4b9391bb-1371-425b-92a1-e887062449f5)
 
 
